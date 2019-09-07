@@ -1,0 +1,104 @@
+
+body { font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color: #777; 
+    background: #777;
+    font-size:18px;
+    text-align:center:
+}
+
+.section{
+    width: 60%; 
+    height:auto;
+    /*to push text a little down and center */
+    padding-top:40px;
+    padding-bottom:40px;
+    padding-left:10px; 
+    padding-right:10px;
+}
+
+article.background {
+   width:auto;
+    color:#ebebeb;
+    background:#777;
+      /*to push text a little down */
+    padding-top:20px; 
+    padding-left:6%; 
+    padding-right:6%;
+/* To be the same as padding bottom and top of section so that section text is centered */
+    margin-top:20px;
+}
+
+header, nav, section, aside, footer, p {
+    background: #ebebeb;
+    text-align:center;
+}
+p.font {
+    color: #777; 
+    width:100%;
+    padding:10px 20px; 
+}
+
+.container3 { 
+    width:90%;
+    padding:10px 0px; 
+ 
+}
+
+.header {
+    padding: 35px 0px; 
+    margin-bottom: 20px;
+    width: 100%; 
+
+} 
+
+.footer {
+    padding: 35px 0px; 
+    margin-top: 20px;
+    width: 100%; 
+}
+
+}
+#background {
+    color:#ebebeb;
+    background:#777;
+}
+
+h1{color:#777;
+background: #ebebee;
+width:100%;
+padding:10px 20px; 
+}
+
+.container{
+width:auto; 
+margin: 0 10%; 
+
+
+}
+
+.container2 {
+    width:auto;
+    margin: 0 10%;
+    display:flex;
+    flex-direction: row;
+}
+
+.midcontain {
+    display:flex;
+    flex-direction: column;  
+    width:97%;
+}
+ 
+aside{
+float:right;
+margin-left:10px;
+width:40%;
+/* to push text a little down */
+padding-top:40px;
+}
+
+.clearfix {
+    overflow: auto;
+  }
+
+
